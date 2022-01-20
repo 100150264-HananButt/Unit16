@@ -7,6 +7,6 @@
     /// Student Name version 0.1
     /// </author>
     public class BMI
-    { helloo
+    { 
     }
 }
