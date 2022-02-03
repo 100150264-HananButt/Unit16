@@ -10,7 +10,7 @@ package Calc2;
  * @author 100150264
  */
 public class Calc2 {
-   String name; 
+   private String name; 
    
    public int add(int x, int y){
        return x + y; 

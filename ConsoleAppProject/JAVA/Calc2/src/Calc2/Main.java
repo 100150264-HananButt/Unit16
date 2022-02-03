@@ -18,6 +18,8 @@ public class Main {
         c1.name = "first calculator";
         c2.name = "second calculator";
         
+        Calc2 c3 = new Calc2();
+        c3.subtract(3,4);
         
         System.out.println(c1.name + " calculated " + c1.add(3, 4));
         System.out.println(c2.name + " calculated " + c2.modulus(29, 5));
